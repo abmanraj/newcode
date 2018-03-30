@@ -26,6 +26,7 @@ public class Slider extends AppCompatActivity
         setSupportActionBar(toolbar);
         Bundle bundle=getIntent().getExtras();
         String rj=bundle.getString("sp","default");
+        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
 
         Toast.makeText(this, ""+rj, Toast.LENGTH_SHORT).show();
         SportCategoryFragment fragment=new SportCategoryFragment();
