@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cb151873"
+    android:orientation="vertical"
+    tools:context="com.smit.sporticlan.profilescreen">
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:padding="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:id="@+id/imagep"
+        android:src="@drawable/spoticlan" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#aaf4e806"
+        android:textSize="35dp"
+        android:drawableLeft="@drawable/proname"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/prname"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#aaf4e806"
+        android:textSize="35dp"
+        android:drawableLeft="@drawable/proemail"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/premail"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#aaf4e806"
+        android:textSize="35dp"
+        android:drawableLeft="@drawable/prophone"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/prphone"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#aaf4e806"
+        android:textSize="35dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/prgender"
+        android:drawableLeft="@drawable/progender"
+        android:layout_marginLeft="20dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#aaf4e806"
+        android:textSize="35dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:drawableLeft="@drawable/prohome"
+        android:id="@+id/praddress"
+        />
+
+
+
+
+</LinearLayout>
