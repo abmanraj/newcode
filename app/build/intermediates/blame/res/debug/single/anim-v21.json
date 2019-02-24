@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

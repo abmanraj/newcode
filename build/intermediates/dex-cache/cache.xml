@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/ead7f29c3478c4201e555bf16ed7bb1e2cbda654/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ef6a84a73683b6a503f941bcb68a07942babcfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_418c316d43fbf82ddfd517e653b2af80d6c2d5c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_756970271cfe19b0767d636d159396cdcd4817c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e1524f1d509dccf3c5057152535dd9dbd065f31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c27807eea4c4c63baaca0c8a61a1a6fd595fc16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_9e1524f1d509dccf3c5057152535dd9dbd065f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ead7f29c3478c4201e555bf16ed7bb1e2cbda654/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_7ef6a84a73683b6a503f941bcb68a07942babcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c27807eea4c4c63baaca0c8a61a1a6fd595fc16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/5dc551d9de4e0c3c9112b623423e4bd38228a09f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_a23678b040588ce10cf5c28e58cbc54e00b1e42e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0_06c6a27ab47240b1db0da179793b3102ad61b63c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/5dc551d9de4e0c3c9112b623423e4bd38228a09f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a23678b040588ce10cf5c28e58cbc54e00b1e42e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.0.0_06c6a27ab47240b1db0da179793b3102ad61b63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_c8bf616ac5de70e4a2e10119510eb0fadf209b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/33adb194210e33691ebe3629d7a5136c1f689f43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_0bf3796fd0e5d560f47fd8f6ef6706c1076f5604.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/33adb194210e33691ebe3629d7a5136c1f689f43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bf3796fd0e5d560f47fd8f6ef6706c1076f5604/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/gson-2.2.4_c8bf616ac5de70e4a2e10119510eb0fadf209b6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f5a71d4c3b2c7b3d4f4b8f966bac92bbb681613/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ea699362e217463459e993cf0475b820a7502b79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_eab2a33e2dd9abafb4ad8eb247c06222d8e79257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/eb15e7f0b36bdd674075b32d093adc7040c4a3c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_b9d6c74f67780aa04bd2f86d249bdf836b9f3439.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/eb15e7f0b36bdd674075b32d093adc7040c4a3c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9d6c74f67780aa04bd2f86d249bdf836b9f3439/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/9885022de57c1d933246bbdf526535e60e91497f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_2f6b02ced8bc15634d5ec57236c1ccd8ef7da283.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_cc3c3a0978d0622b42863ee0670b84467b67b39c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/9885022de57c1d933246bbdf526535e60e91497f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f6b02ced8bc15634d5ec57236c1ccd8ef7da283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_caee05c6701a2cc743a3e1e87821fdc757744462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0fa7df19baacdda4ff32d9c518849fe8a5c333f">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4896c9a20392faf3aa145ac759e7e45bad136950/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_caee05c6701a2cc743a3e1e87821fdc757744462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/glide-3.7.0_cc3c3a0978d0622b42863ee0670b84467b67b39c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/277a7c16327a9c1936590b4d25a32582124ac237/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b62e3ca3b187b63e773d445be07aa9d6b334c130/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/277a7c16327a9c1936590b4d25a32582124ac237/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_b62e3ca3b187b63e773d445be07aa9d6b334c130.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/1422682890bd57b53887e43ea754cea7f023de1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ae2024f431ac058a12a53767d9f3ce9cafc007f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/e0fa88c528d646e86671f392dd1af925fd145d22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_639f5e350eb6c9e85d02fe0d6fbaa81d1a6faac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/5acf12c1d3100cca3d74574a00ce40f34e52265a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_73dfc9dfb73bb43036a8df370bce599f32a05b98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/e0fa88c528d646e86671f392dd1af925fd145d22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_639f5e350eb6c9e85d02fe0d6fbaa81d1a6faac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/d8ea8adbedf6f81248fef0d648edf60d0953db96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_874e9dde46b60968323fc08d150145860839da9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_756970271cfe19b0767d636d159396cdcd4817c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/1422682890bd57b53887e43ea754cea7f023de1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_0ae2024f431ac058a12a53767d9f3ce9cafc007f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/okio-1.0.0_8d01eafee74f0695af3d594c76326bb5a823dc18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/5acf12c1d3100cca3d74574a00ce40f34e52265a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73dfc9dfb73bb43036a8df370bce599f32a05b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.android/build-cache/ea699362e217463459e993cf0475b820a7502b79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eab2a33e2dd9abafb4ad8eb247c06222d8e79257/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/d8ea8adbedf6f81248fef0d648edf60d0953db96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_874e9dde46b60968323fc08d150145860839da9e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.0.0_8d01eafee74f0695af3d594c76326bb5a823dc18/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/pre-dexed/debug/classes_418c316d43fbf82ddfd517e653b2af80d6c2d5c5.jar" />
+    </item>
+
+</items>

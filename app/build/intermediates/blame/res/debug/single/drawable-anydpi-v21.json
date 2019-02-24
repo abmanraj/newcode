@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/home.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/prohome.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/prohome.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/lock.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/lock.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/edname.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edname.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/user.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/user.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/edphone.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edphone.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_shopping_cart_black_24dp.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/edemail.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edemail.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/nameicon.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/nameicon.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/emailicon.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/emailicon.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/edgender.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edgender.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/edhome.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edhome.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/prophone.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/prophone.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/proemail.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/proemail.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/lockicon.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/lockicon.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/phoneicon.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/phoneicon.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/progender.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/progender.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/proname.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/build/generated/res/pngs/debug/drawable-anydpi-v21/proname.xml"
+    }
+]

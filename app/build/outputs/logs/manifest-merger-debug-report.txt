@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:7:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macbookpro/.android/build-cache/1422682890bd57b53887e43ea754cea7f023de1d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.0.0] /Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/macbookpro/.android/build-cache/5dc551d9de4e0c3c9112b623423e4bd38228a09f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/macbookpro/.android/build-cache/e0fa88c528d646e86671f392dd1af925fd145d22/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] /Users/macbookpro/.android/build-cache/ea699362e217463459e993cf0475b820a7502b79/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macbookpro/.android/build-cache/33adb194210e33691ebe3629d7a5136c1f689f43/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macbookpro/.android/build-cache/eb15e7f0b36bdd674075b32d093adc7040c4a3c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macbookpro/.android/build-cache/5acf12c1d3100cca3d74574a00ce40f34e52265a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macbookpro/.android/build-cache/d8ea8adbedf6f81248fef0d648edf60d0953db96/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macbookpro/.android/build-cache/277a7c16327a9c1936590b4d25a32582124ac237/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/macbookpro/.android/build-cache/9885022de57c1d933246bbdf526535e60e91497f/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.sporti.sporticlan.splash
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:14:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.sporti.sporticlan.Firstpage
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:21:9-47
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:21:19-44
+activity#com.sporti.sporticlan.Login
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:22:19-40
+activity#com.sporti.sporticlan.Register
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:23:9-46
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:23:19-43
+activity#com.sporti.sporticlan.Forgot
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:24:19-41
+activity#com.sporti.sporticlan.Slider
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:25:9-28:47
+	android:label
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:27:13-29
+	android:theme
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:26:13-35
+activity#com.sporti.sporticlan.Sportproduct
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:29:19-47
+activity#com.sporti.sporticlan.Sportssubproduct
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:30:19-51
+activity#com.sporti.sporticlan.Productmainscreen
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:31:19-52
+activity#com.sporti.sporticlan.Feedback
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:32:19-43
+activity#com.sporti.sporticlan.Aboutus
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:33:19-42
+activity#com.sporti.sporticlan.Changepassword
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:34:19-49
+activity#com.sporti.sporticlan.profilescreen
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:35:19-48
+activity#com.sporti.sporticlan.editprofile
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:36:9-49
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:36:19-46
+activity#com.sporti.sporticlan.Cart
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:37:9-42
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:37:19-39
+activity#com.sporti.sporticlan.Payment
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:38:19-42
+activity#com.sporti.sporticlan.demo_activity
+ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:39:9-41:20
+	android:name
+		ADDED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml:39:19-48
+uses-sdk
+INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macbookpro/.android/build-cache/1422682890bd57b53887e43ea754cea7f023de1d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.0.0] /Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/macbookpro/.android/build-cache/5dc551d9de4e0c3c9112b623423e4bd38228a09f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/macbookpro/.android/build-cache/e0fa88c528d646e86671f392dd1af925fd145d22/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/macbookpro/.android/build-cache/ead7f29c3478c4201e555bf16ed7bb1e2cbda654/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /Users/macbookpro/.android/build-cache/ea699362e217463459e993cf0475b820a7502b79/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macbookpro/.android/build-cache/33adb194210e33691ebe3629d7a5136c1f689f43/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macbookpro/.android/build-cache/eb15e7f0b36bdd674075b32d093adc7040c4a3c0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macbookpro/.android/build-cache/5acf12c1d3100cca3d74574a00ce40f34e52265a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macbookpro/.android/build-cache/d8ea8adbedf6f81248fef0d648edf60d0953db96/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macbookpro/.android/build-cache/277a7c16327a9c1936590b4d25a32582124ac237/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/macbookpro/.android/build-cache/9885022de57c1d933246bbdf526535e60e91497f/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Downloads/Sporticlan/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/macbookpro/.android/build-cache/33adb194210e33691ebe3629d7a5136c1f689f43/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/macbookpro/.android/build-cache/eb15e7f0b36bdd674075b32d093adc7040c4a3c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/macbookpro/.android/build-cache/5acf12c1d3100cca3d74574a00ce40f34e52265a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/macbookpro/.android/build-cache/d8ea8adbedf6f81248fef0d648edf60d0953db96/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/macbookpro/.android/build-cache/277a7c16327a9c1936590b4d25a32582124ac237/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/macbookpro/.android/build-cache/c6789c9d89edd04dfe1e31e97cdc508bbe18e1fb/output/AndroidManifest.xml:26:9-47

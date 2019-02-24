@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.smit.sporticlan">
+    package="com.sporti.sporticlan">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -24,7 +24,7 @@
         <activity android:name=".Forgot" />
         <activity
             android:name=".Slider"
-            android:label="@string/title_activity_slider"
+            android:label=""
             android:theme="@style/AppTheme" />
         <activity android:name=".Sportproduct" />
         <activity android:name=".Sportssubproduct" />
@@ -34,7 +34,11 @@
         <activity android:name=".Changepassword" />
         <activity android:name=".profilescreen" />
         <activity android:name=".editprofile" />
-        <activity android:name=".Cart"></activity>
+        <activity android:name=".Cart" />
+        <activity android:name=".Payment" />
+        <activity android:name=".demo_activity">
+
+        </activity>
     </application>
 
 </manifest>

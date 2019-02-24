@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/cricket.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/cricket.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/macbookpro/.android/build-cache/ceb6fd013401caa73a19c71a0b4d67c7d6363e30/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/feedback.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/feedback.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/hockey.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/hockey.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/football.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/football.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/teniss.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/teniss.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/6a727827e6dc5c747d378dd4dae6a480affa8bf9/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/badminton.jpg",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/badminton.jpg"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    }
+]

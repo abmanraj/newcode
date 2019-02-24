@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/menu/mymenu.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/menu/mymenu.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/menu/activity_slider_drawer.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/menu/activity_slider_drawer.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Downloads/Sporticlan/app/build/intermediates/res/merged/debug/menu/slider.xml",
+        "source": "/Users/macbookpro/Downloads/Sporticlan/app/src/main/res/menu/slider.xml"
+    }
+]
